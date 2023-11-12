@@ -1,0 +1,1 @@
+These are my personal notes from the book titled Python One-Liners written by Cristhian Mayer
